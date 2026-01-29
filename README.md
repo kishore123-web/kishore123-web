@@ -10,6 +10,12 @@
 
 ###
 
+<div align="left">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmd6MXZ5aW9ianBveTM3cms3YmllNWNjbTdnbGMxMmZ4bnd3MmNuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j2drWQQjm1STOl2kvf/giphy.gif"  />
+</div>
+
+###
+
 <p align="left">I’m Kishore, a passionate developer and tech enthusiast from India 🇮🇳<br><br>I enjoy building applications, exploring new technologies, and turning ideas into working projects.<br>If something sparks my curiosity, I’ll probably try to build it.<br><br>My main tech interests include Java, application development, and problem-solving.<br>I like writing clean code and learning how real-world systems work under the hood.<br><br>I’ve worked on multiple academic and personal projects, and I’m constantly improving my skills by building, experimenting, and participating in hackathons.<br><br>If you’re interested in my work, feel free to check out my pinned repositories 👇<br><br>Fun Facts:<br><br>☕ Runs on curiosity more than coffee<br><br>💻 Loves coding & learning new tech<br><br>🧠 Enjoys problem-solving and logic<br><br>🚀 Believes in learning by building</p>
 
 ###
@@ -24,8 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
@@ -42,6 +46,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
 </div>
 
 ###
